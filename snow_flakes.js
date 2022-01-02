@@ -1,4 +1,4 @@
-<script>
+
 ////////////////////////
 ///////// Настройки
 ////////////////////////
@@ -92,4 +92,4 @@ for (i=0;i<=snowmax;i++) {
 document.body.insertAdjacentHTML('beforeend', "<span id='s"+i+"' style='user-select:none;position:fixed;top:-"+snowmaxsize+"'>"+snowletter+"</span>")
 }
 window.onload=initsnow
-</script>
+
