@@ -1,1 +1,6 @@
 theme: jekyll-theme-tactile
+
+pages_list:
+  О блоге: '/about'
+  Архив записей: '/archive'
+  Лента: '/atom.xml'
