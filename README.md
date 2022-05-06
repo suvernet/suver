@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Добро Пожаловать на страницы SuverDev
 
 You can use the [editor on GitHub](https://github.com/suvernet/suver/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
