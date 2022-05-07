@@ -78,7 +78,7 @@ h1 {
     font-size: 1.2rem;
     font-weight: 300;
 }
-h1.post-title {
+h1.post-title a {
     color: #7489a9;
 }
 h2 {
