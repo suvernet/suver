@@ -78,9 +78,7 @@ h1 {
     font-size: 1.2rem;
     font-weight: 300;
 }
-h1.post-title a {
-    color: #7489a9;
-}
+
 h2 {
   margin-top: 1rem;
   font-size: 1rem;
@@ -331,7 +329,7 @@ h3.masthead-title {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #7489a9;
 }
 .page-title,
 .post-title {
