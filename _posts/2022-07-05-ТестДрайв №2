@@ -1,0 +1,20 @@
+---
+layout: post
+title: "ТестДрайв №2"
+permalink: testdrive2
+tags: тестим__гитхаб
+---
+
+Пишем, просто пишем
+---
+
+<head>
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/visual-git-guide.css">
+
+</head>
+
+  <h2 id="contents">Просто заголовок в h2</h2>
+  Просто строка
+  <p>Просто строка в теге р</p>
+  
