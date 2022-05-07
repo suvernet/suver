@@ -4,11 +4,7 @@ title: "ТестДрайв"
 permalink: testdrive
 tags: git
 ---
-<head>
-  <!-- CSS -->
-  <link rel="stylesheet" href="/public/css/visual-git-guide.css">
 
-</head>
 <h2 id="contents">Содержание</h2>
 <p>Тестирую блог на гитхабе</p>
 А эт просто строка...:smile
