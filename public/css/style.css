@@ -30,7 +30,7 @@
 html,
 body {
   font-family: Arial, sans-serif;
-  font-size: 1em;
+  font-size: .8em;
   line-height: 1.5;
   margin: 0;
   padding: 0;
@@ -80,15 +80,15 @@ h1 {
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.16rem;
+  font-size: 1rem;
 }
 h3 {
   margin-top: 1.5rem;
-  font-size: 1.11rem;
+  font-size: .9rem;
 }
 h4, h5, h6 {
   margin-top: 1rem;
-  font-size: 1rem;
+  font-size: .9rem;
 }
 
 /* Body text */
@@ -293,6 +293,9 @@ tbody tr:nth-child(odd) th {
   padding-bottom: 1rem;
   margin-bottom: 3rem;
 }
+h3.masthead-title {
+    font-size: 1.5em;
+}
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
@@ -338,6 +341,7 @@ tbody tr:nth-child(odd) th {
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
+  font-size: .78em;
 }
 
 /* Related posts */
@@ -438,7 +442,7 @@ a.pagination-item:hover {
 .tag-box.inline li {
   float: left;
   font-size: 14px;
-  font-size: 0.875rem;
+  font-size: 0.75rem;
   line-height: 2.5;
 }
 
