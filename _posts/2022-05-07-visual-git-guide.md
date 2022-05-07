@@ -6,6 +6,7 @@ tags: git
 ---
 
 Краткая наглядная справка для наиболее часто используемых команд git. Если у вас уже есть небольшой опыт работы с git, эта страница поможет вам закрепить ваши знания. Создано на основе этого [сайта](https://marklodato.github.io/visual-git-guide/index-en.html).
+<script src="https://gist.github.com/suvernet/312129ff3380b91afede74ad839d16a6.js"></script>
 
 ---
 
