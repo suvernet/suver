@@ -3,7 +3,11 @@ layout: page
 title: О блоге
 ---
 
+<head>
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/visual-git-guide.css">
 
+</head>
 
 Блог хостится на [Github Pages](https://pages.github.com/), использует [Jekyll](http://jekyllrb.com/). 
 
