@@ -36,7 +36,7 @@ title: Suver
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.url }}/page{{paginator.next_page}}">Следущие...</a>
   {% else %}
-    <span class="pagination-item older"><</span>
+    <span class="pagination-item older">Следущие...</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
@@ -45,6 +45,6 @@ title: Suver
       <a class="pagination-item newer" href="{{ site.url }}/page{{paginator.previous_page}}">Предыдущие...</a>
     {% endif %}
   {% else %}
-    <span class="pagination-item newer">></span>
+    <span class="pagination-item newer">Предыдущие...</span>
   {% endif %}
 </div>
