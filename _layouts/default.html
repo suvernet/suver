@@ -8,11 +8,11 @@
     <div class="container content">
       <div class="masthead">
         <h3 class="masthead-title">
-            <a href="/" title="Suver">{{ site.title }}</a>
+            <a href="./" title="Suver">{{ site.title }}</a>
 
             {% for page in site.pages_list %}
               &nbsp;&nbsp;&nbsp;
-              <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+              <small><a href="./{{ page[1]  }}">{{ page[0] }}</a></small>
             {% endfor %}
 
             <p> <small>{{ site.tagline }}</small> </p>
@@ -23,7 +23,7 @@
 
       <div class="footer">
         <div id="scrollup">
-            <img src="/public/up.png" class="up" alt="Scroll up" />
+            <img src="./public/up.png" class="up" alt="Scroll up" />
         </div>
         <p>
           &copy; {{ site.time | date: '%Y' }}. All rights reserved.
