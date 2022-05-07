@@ -5,7 +5,7 @@ title: О блоге
 
 <head>
   <!-- CSS -->
-  <link rel="stylesheet" href="/public/css/visual-git-guide.css">
+  <link rel="stylesheet" href="/public/css/style.css">
 
 </head>
 
