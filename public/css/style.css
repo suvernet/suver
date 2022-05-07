@@ -480,8 +480,8 @@ a.pagination-item:hover {
     border-radius: 5px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
-    left: 10px;
-    bottom: 10px;
+    left: 30px;
+    bottom: 30px;
     display: none;
     cursor: pointer;
 }
