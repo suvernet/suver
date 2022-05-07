@@ -479,6 +479,7 @@ a.pagination-item:hover {
     bottom: 45px;
     display: none;
     cursor: pointer;
+  font-size: 1.5em;
 }
 
 /* image slider style */
