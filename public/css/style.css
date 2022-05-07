@@ -475,13 +475,8 @@ a.pagination-item:hover {
 #scrollup {
     position: fixed; /* fixed position */
     opacity: 0.5; /* transparency */
-    padding: 15px 10px 10px;
-    background: #aaa;
-    border-radius: 5px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    left: 30px;
-    bottom: 30px;
+    left: 45px;
+    bottom: 45px;
     display: none;
     cursor: pointer;
 }
