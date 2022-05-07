@@ -7,8 +7,8 @@ tagline:          'Всё сказанное здесь сегодня, може
 paginate:         10
 paginate_path:    "page:num"
 highlighter:      rouge
-future:           false
-show_drafts:      false
+future:           true
+show_drafts:      true
 
 url:              https://suver.ru
 shorturl:         suver.ru
