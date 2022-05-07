@@ -30,7 +30,7 @@
 html,
 body {
   font-family: Arial, sans-serif;
-  font-size: 16px;
+  font-size: 1em;
   line-height: 1.5;
   margin: 0;
   padding: 0;
@@ -80,11 +80,11 @@ h1 {
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.16rem;
 }
 h3 {
   margin-top: 1.5rem;
-  font-size: 1.25rem;
+  font-size: 1.11rem;
 }
 h4, h5, h6 {
   margin-top: 1rem;
