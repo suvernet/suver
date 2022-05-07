@@ -1,4 +1,28 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Нетипичный...
+tagline:          'Всё сказанное здесь сегодня, может быть не так уж важно завтра... В.Сувер'
+paginate:         10
+paginate_path:    "page:num"
+highlighter:      rouge
+future:           false
+show_drafts:      false
+
+url:              https://suver.ru
+shorturl:         suver.ru
+
+author:
+  name:          Виктор Сувер
+  url:            suver.ru
+
+# This is the list of pages to include in the header of the website.
 pages_list:
   О блоге: '/about'
   Архив записей: '/archive'
-  Лента: '/atom.xml'
+
+gems:
+  - jemoji
+  - jekyll-paginate
+  - jekyll-gist
