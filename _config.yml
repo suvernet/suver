@@ -19,8 +19,8 @@ author:
 
 # This is the list of pages to include in the header of the website.
 pages_list:
-  О блоге: '/about'
-  Архив записей: '/archive'
+  О блоге: './about'
+  Архив записей: './archive'
 
 gems:
   - jemoji
